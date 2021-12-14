@@ -7,3 +7,6 @@ To Run this APP
 after install 
 
 >yarn dev
+
+
+"Package Usage: https://github.com/jakearchibald/idb"
